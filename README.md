@@ -1,7 +1,7 @@
 
 
 
-
+> # Special Man Backend Bootcamp Stage Assignment 2
 > # Shopping App Schema Design
 
 ## User Story
